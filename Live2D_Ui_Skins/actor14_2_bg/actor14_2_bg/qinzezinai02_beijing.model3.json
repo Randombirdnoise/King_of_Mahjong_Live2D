@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "Name": "qinzezinai02_beijing",
+  "FileReferences": {
+    "Moc": "qinzezinai02_beijing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "qinzezinai02_beijing.cdi3.json",
+    "Motions": {
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

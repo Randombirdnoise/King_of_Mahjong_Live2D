@@ -1,0 +1,39 @@
+{
+  "Version": 3,
+  "Name": "fengchenxiufei_zhuobu",
+  "FileReferences": {
+    "Moc": "fengchenxiufei_zhuobu.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "fengchenxiufei_zhuobu.cdi3.json",
+    "Motions": {
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

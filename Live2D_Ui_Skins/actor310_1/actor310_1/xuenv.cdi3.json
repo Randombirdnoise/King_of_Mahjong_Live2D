@@ -1,0 +1,923 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "后小腿Z"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "前鞋子 Z"
+    },
+    {
+      "Id": "Param100",
+      "GroupId": "",
+      "Name": "位置 Y3"
+    },
+    {
+      "Id": "Param101",
+      "GroupId": "",
+      "Name": "位置 Z2"
+    },
+    {
+      "Id": "Param102",
+      "GroupId": "",
+      "Name": "书页3出现"
+    },
+    {
+      "Id": "Param103",
+      "GroupId": "",
+      "Name": "飞出轨迹3"
+    },
+    {
+      "Id": "Param104",
+      "GroupId": "",
+      "Name": "转页3"
+    },
+    {
+      "Id": "Param105",
+      "GroupId": "",
+      "Name": "扭曲3"
+    },
+    {
+      "Id": "Param106",
+      "GroupId": "",
+      "Name": "书页旋转 Z3"
+    },
+    {
+      "Id": "Param107",
+      "GroupId": "",
+      "Name": "4------"
+    },
+    {
+      "Id": "Param108",
+      "GroupId": "",
+      "Name": "位置 X4"
+    },
+    {
+      "Id": "Param109",
+      "GroupId": "",
+      "Name": "位置 Y4"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "前鞋子 X"
+    },
+    {
+      "Id": "Param110",
+      "GroupId": "",
+      "Name": "位置 Z4"
+    },
+    {
+      "Id": "Param111",
+      "GroupId": "",
+      "Name": "书页4出现"
+    },
+    {
+      "Id": "Param112",
+      "GroupId": "",
+      "Name": "飞出轨迹4"
+    },
+    {
+      "Id": "Param113",
+      "GroupId": "",
+      "Name": "转页4"
+    },
+    {
+      "Id": "Param114",
+      "GroupId": "",
+      "Name": "扭曲4"
+    },
+    {
+      "Id": "Param115",
+      "GroupId": "",
+      "Name": "书页旋转 Z4"
+    },
+    {
+      "Id": "Param116",
+      "GroupId": "",
+      "Name": "裙子 Y1"
+    },
+    {
+      "Id": "Param117",
+      "GroupId": "",
+      "Name": "裙子 Y2"
+    },
+    {
+      "Id": "Param118",
+      "GroupId": "",
+      "Name": "4"
+    },
+    {
+      "Id": "Param119",
+      "GroupId": "",
+      "Name": "前鞋带1"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "左肩 Y"
+    },
+    {
+      "Id": "Param120",
+      "GroupId": "",
+      "Name": "前鞋带2"
+    },
+    {
+      "Id": "Param121",
+      "GroupId": "",
+      "Name": "后鞋带 1"
+    },
+    {
+      "Id": "Param122",
+      "GroupId": "",
+      "Name": "后鞋带 2"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "左肩 Z"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "左小臂 Z"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "左手掌 Z"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "左书本 Z"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "左书本 X"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "左小臂 Y"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "右肩 Z"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "右小臂 Z"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "右手掌 Z"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "右手指 Z1"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "右手指 Z2"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "前发1"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "左侧发1"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "左侧发2"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "右侧发  1"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "右侧发  2"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "眼高光1"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "帽子球1"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "帽子球2"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "-----浮空------"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "Y"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "呆毛1"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "呆毛2"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "后大腿Z"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "后鞋子 Z1"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "后鞋子 Z2"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "前围巾1"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "屁股 Z"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "前围巾2"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "后围巾1"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "后围巾2"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "包包1"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "包包2"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "左裙子1"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "左裙子2"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "左裙子3"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "右裙子1"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "右裙子2"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "右裙子3"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "前围巾3"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "后围巾3-----"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "左袖子1"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "左袖子2"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "右袖子1"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "右袖子2"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "左围巾1"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "左围巾2"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "书本书页活动1"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "Y"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "飞出轨迹1"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "转页1"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "位置X1"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "位置Y1"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "书页旋转 Z1"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "书页晃动"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "1---------"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "前围巾位置Z"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "后围巾位置 Z"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "前围巾4"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "Z"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "后围巾4"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "裙摆波浪"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "---裙子分界线---"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "包包3"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "书页阴影Z"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "位置Z1"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "扭曲1"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "书页1出现"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "书本书页活动2"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "前大腿 Z"
+    },
+    {
+      "Id": "Param80",
+      "GroupId": "",
+      "Name": "快速翻页"
+    },
+    {
+      "Id": "Param81",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "Param82",
+      "GroupId": "",
+      "Name": "--裙子-------"
+    },
+    {
+      "Id": "Param83",
+      "GroupId": "",
+      "Name": "裙子 Z"
+    },
+    {
+      "Id": "Param84",
+      "GroupId": "",
+      "Name": "裙摆宽度"
+    },
+    {
+      "Id": "Param85",
+      "GroupId": "",
+      "Name": "脚阴影位置"
+    },
+    {
+      "Id": "Param86",
+      "GroupId": "",
+      "Name": "右手阴影"
+    },
+    {
+      "Id": "Param87",
+      "GroupId": "",
+      "Name": "整体Y"
+    },
+    {
+      "Id": "Param88",
+      "GroupId": "",
+      "Name": "2--------"
+    },
+    {
+      "Id": "Param89",
+      "GroupId": "",
+      "Name": "位置 X2"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "前小腿 Z"
+    },
+    {
+      "Id": "Param90",
+      "GroupId": "",
+      "Name": "位置 Y2"
+    },
+    {
+      "Id": "Param91",
+      "GroupId": "",
+      "Name": "位置 Z2"
+    },
+    {
+      "Id": "Param92",
+      "GroupId": "",
+      "Name": "书页2出现"
+    },
+    {
+      "Id": "Param93",
+      "GroupId": "",
+      "Name": "飞出轨迹2"
+    },
+    {
+      "Id": "Param94",
+      "GroupId": "",
+      "Name": "转页2"
+    },
+    {
+      "Id": "Param95",
+      "GroupId": "",
+      "Name": "扭曲2"
+    },
+    {
+      "Id": "Param96",
+      "GroupId": "",
+      "Name": "书页旋转 Z2"
+    },
+    {
+      "Id": "Param97",
+      "GroupId": "",
+      "Name": "整体X"
+    },
+    {
+      "Id": "Param98",
+      "GroupId": "",
+      "Name": "3-------"
+    },
+    {
+      "Id": "Param99",
+      "GroupId": "",
+      "Name": "位置 X3"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "腰部　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉  上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴巴　张开和闭合"
+    },
+    {
+      "Id": "Param_Angle_Rotation_10_ArtMesh58",
+      "GroupId": "",
+      "Name": "[9]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_11_ArtMesh58",
+      "GroupId": "",
+      "Name": "[10]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_ArtMesh58",
+      "GroupId": "",
+      "Name": "[0]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_ArtMesh58",
+      "GroupId": "",
+      "Name": "[1]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_ArtMesh58",
+      "GroupId": "",
+      "Name": "[2]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_ArtMesh58",
+      "GroupId": "",
+      "Name": "[3]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_ArtMesh58",
+      "GroupId": "",
+      "Name": "[4]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_ArtMesh58",
+      "GroupId": "",
+      "Name": "[5]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_ArtMesh58",
+      "GroupId": "",
+      "Name": "[6]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_8_ArtMesh58",
+      "GroupId": "",
+      "Name": "[7]前领巾"
+    },
+    {
+      "Id": "Param_Angle_Rotation_9_ArtMesh58",
+      "GroupId": "",
+      "Name": "[8]前领巾"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh58_Skinning",
+      "Name": "前领巾(蒙皮)"
+    },
+    {
+      "Id": "Part",
+      "Name": "飞书页1"
+    },
+    {
+      "Id": "Part10",
+      "Name": "帽子"
+    },
+    {
+      "Id": "Part11",
+      "Name": "前领巾"
+    },
+    {
+      "Id": "Part12",
+      "Name": "左手书"
+    },
+    {
+      "Id": "Part13",
+      "Name": "右手"
+    },
+    {
+      "Id": "Part14",
+      "Name": "包包"
+    },
+    {
+      "Id": "Part15",
+      "Name": "衣服"
+    },
+    {
+      "Id": "Part16",
+      "Name": "眉毛"
+    },
+    {
+      "Id": "Part17",
+      "Name": "左手"
+    },
+    {
+      "Id": "Part18",
+      "Name": "后围巾"
+    },
+    {
+      "Id": "Part19",
+      "Name": "后脚新"
+    },
+    {
+      "Id": "Part2",
+      "Name": "左侧发"
+    },
+    {
+      "Id": "Part20",
+      "Name": "头发"
+    },
+    {
+      "Id": "Part21",
+      "Name": "脖子"
+    },
+    {
+      "Id": "Part22",
+      "Name": "脸"
+    },
+    {
+      "Id": "Part23",
+      "Name": "眼睛"
+    },
+    {
+      "Id": "Part24",
+      "Name": "裙子"
+    },
+    {
+      "Id": "Part25",
+      "Name": "前脚"
+    },
+    {
+      "Id": "Part26",
+      "Name": "后脚"
+    },
+    {
+      "Id": "Part27",
+      "Name": "鼻子"
+    },
+    {
+      "Id": "Part28",
+      "Name": "飞书页2"
+    },
+    {
+      "Id": "Part29",
+      "Name": "前中发"
+    },
+    {
+      "Id": "Part3",
+      "Name": "右后发"
+    },
+    {
+      "Id": "Part30",
+      "Name": "右侧发"
+    },
+    {
+      "Id": "Part31",
+      "Name": "飞书页3"
+    },
+    {
+      "Id": "Part32",
+      "Name": "飞书页4"
+    },
+    {
+      "Id": "Part33",
+      "Name": "前围巾.psd"
+    },
+    {
+      "Id": "Part34",
+      "Name": "前领巾(回转)"
+    },
+    {
+      "Id": "Part4",
+      "Name": "飞书页--------替换书页的位置----"
+    },
+    {
+      "Id": "Part5",
+      "Name": "右眼"
+    },
+    {
+      "Id": "Part6",
+      "Name": "左眼"
+    },
+    {
+      "Id": "Part7",
+      "Name": "表情"
+    },
+    {
+      "Id": "Part8",
+      "Name": "嘴"
+    },
+    {
+      "Id": "Part9",
+      "Name": "左后发"
+    }
+  ]
+}

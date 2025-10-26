@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "Name": "jichuanxinyue02_beijing",
+  "FileReferences": {
+    "Moc": "jichuanxinyue02_beijing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "jichuanxinyue02_beijing.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "jichuanxinyue02_beijing.cdi3.json",
+    "Motions": {
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

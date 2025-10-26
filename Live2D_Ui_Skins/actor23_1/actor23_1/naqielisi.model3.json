@@ -1,0 +1,71 @@
+{
+  "Version": 3,
+  "Name": "naqielisi",
+  "FileReferences": {
+    "Moc": "naqielisi.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "naqielisi.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "naqielisi.cdi3.json",
+    "Motions": {
+      "click01": [
+        {
+          "File": "motions/click01.motion3.json"
+        }
+      ],
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "angry",
+        "File": "expressions/angry.exp3.json"
+      },
+      {
+        "Name": "doubt",
+        "File": "expressions/doubt.exp3.json"
+      },
+      {
+        "Name": "happy",
+        "File": "expressions/happy.exp3.json"
+      },
+      {
+        "Name": "normal",
+        "File": "expressions/normal.exp3.json"
+      },
+      {
+        "Name": "sadeness",
+        "File": "expressions/sadeness.exp3.json"
+      },
+      {
+        "Name": "shyness",
+        "File": "expressions/shyness.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamBrowLY",
+        "ParamEyeLOpen",
+        "ParamBrowRY",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 3,
+  "Name": "regouniang02_beijing",
+  "FileReferences": {
+    "Moc": "regouniang02_beijing.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "regouniang02_beijing.cdi3.json",
+    "Motions": {
+      "click01": [
+        {
+          "File": "motions/click01.motion3.json"
+        }
+      ],
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ],
+      "pose01": [
+        {
+          "File": "motions/pose01.motion3.json"
+        }
+      ],
+      "reset": [
+        {
+          "File": "motions/reset.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

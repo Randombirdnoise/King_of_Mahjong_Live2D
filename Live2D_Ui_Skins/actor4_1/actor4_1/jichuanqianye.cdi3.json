@@ -1,0 +1,235 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "breathe delay"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "gesture"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "snap2"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "hawk/coat"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "MOVE"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "physics cefa"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "physics qianfa"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "coat"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "hawk deformation"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "hawk moving"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "snap 1"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "L hand action"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "wrist"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "hawk  flutter"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "hawk standing"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "head X"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "breathe"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "eyeball X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "eyeball Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "L　eye wink"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "R eye wink"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "wave hair 3"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "wave hair 1"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "wave hair 2"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "mouth"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "mouth open"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yupei",
+      "GroupId": "",
+      "Name": "[0]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yupei",
+      "GroupId": "",
+      "Name": "[1]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yupei",
+      "GroupId": "",
+      "Name": "[2]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_yupei",
+      "GroupId": "",
+      "Name": "[3]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_yupei",
+      "GroupId": "",
+      "Name": "[4]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_yupei",
+      "GroupId": "",
+      "Name": "[5]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_yupei",
+      "GroupId": "",
+      "Name": "[6]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_8_yupei",
+      "GroupId": "",
+      "Name": "[7]yupei"
+    },
+    {
+      "Id": "Param_Angle_Rotation_9_yupei",
+      "GroupId": "",
+      "Name": "[8]yupei"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "bird",
+      "Name": "bird"
+    },
+    {
+      "Id": "coat",
+      "Name": "coat"
+    },
+    {
+      "Id": "hair",
+      "Name": "hair"
+    },
+    {
+      "Id": "hand",
+      "Name": "hand"
+    },
+    {
+      "Id": "hand2",
+      "Name": "hand"
+    },
+    {
+      "Id": "Part",
+      "Name": "face"
+    },
+    {
+      "Id": "Part2",
+      "Name": "lower body'"
+    },
+    {
+      "Id": "Part3",
+      "Name": "bird 2"
+    },
+    {
+      "Id": "Part4",
+      "Name": "yupe"
+    },
+    {
+      "Id": "Part8",
+      "Name": "jichuanqianye.psd(未找到对应图层)"
+    },
+    {
+      "Id": "ying",
+      "Name": "hawk"
+    },
+    {
+      "Id": "yupei_Skinning",
+      "Name": "yupe"
+    },
+    {
+      "Id": "yupei_Skinning2",
+      "Name": "yupei(蒙皮)"
+    }
+  ]
+}

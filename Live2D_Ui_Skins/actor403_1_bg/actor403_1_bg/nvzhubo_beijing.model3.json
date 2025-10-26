@@ -1,0 +1,48 @@
+{
+  "Version": 3,
+  "Name": "nvzhubo_beijing",
+  "FileReferences": {
+    "Moc": "nvzhubo_beijing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "nvzhubo_beijing.cdi3.json",
+    "Motions": {
+      "idle_1_01": [
+        {
+          "File": "motions/idle_1_01.motion3.json"
+        }
+      ],
+      "idle_2_01": [
+        {
+          "File": "motions/idle_2_01.motion3.json"
+        }
+      ],
+      "idle_3_01": [
+        {
+          "File": "motions/idle_3_01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

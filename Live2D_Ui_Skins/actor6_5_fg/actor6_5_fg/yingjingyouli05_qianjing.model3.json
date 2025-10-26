@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "Name": "yingjingyouli05_qianjing",
+  "FileReferences": {
+    "Moc": "yingjingyouli05_qianjing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "yingjingyouli05_qianjing.cdi3.json",
+    "Motions": {
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

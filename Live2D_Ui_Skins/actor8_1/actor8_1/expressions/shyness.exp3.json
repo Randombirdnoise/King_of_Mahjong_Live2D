@@ -1,0 +1,812 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamEyeLOpen",
+      "Value": 0.2,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "Value": 0.2,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "Value": 0.22,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": -0.3,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": -0.4,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.3,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamCheek",
+      "Value": 0.4,
+      "Blend": 1
+    },
+    {
+      "Id": "Param67",
+      "Value": 30.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleZ",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param3",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBreath",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param4",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param5",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param6",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param7",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param8",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param9",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param10",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param11",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param17",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param65",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param66",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param15",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param12",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param13",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param14",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param16",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param63",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param64",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param18",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param19",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param20",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param21",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param22",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param23",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param24",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param25",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param26",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param27",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param28",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param29",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param30",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param31",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param32",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param33",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param34",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param35",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param36",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param37",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param38",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param39",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param40",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param41",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param42",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param43",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param44",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param45",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param46",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param47",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param48",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation49",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation50",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation51",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation52",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation53",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation54",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation55",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation56",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation57",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation58",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation59",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation60",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation61",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation62",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation63",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation64",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation65",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation66",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation67",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation68",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation69",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation70",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation71",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation72",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation73",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation74",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation75",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation76",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation77",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation78",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation79",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation80",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation81",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param49",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param50",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param51",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param52",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param53",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param54",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param55",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param56",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param57",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param58",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param59",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param60",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param61",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param62",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation83",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation84",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation85",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation86",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation82",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation91",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation92",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation93",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation94",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation95",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation96",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation97",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation98",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation99",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation100",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation101",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation102",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation103",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation104",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation105",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation106",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation107",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation108",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation109",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation110",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation111",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation112",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation113",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation114",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation115",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation116",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation117",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation118",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation119",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation120",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation121",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation122",
+      "Value": 0.0,
+      "Blend": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "Name": "yinyangshi03_2_beijing",
+  "FileReferences": {
+    "Moc": "yinyangshi03_2_beijing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "yinyangshi03_2_beijing.cdi3.json",
+    "Motions": {
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

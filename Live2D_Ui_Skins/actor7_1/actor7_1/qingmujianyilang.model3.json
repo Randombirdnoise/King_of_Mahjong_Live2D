@@ -1,0 +1,86 @@
+{
+  "Version": 3,
+  "Name": "qingmujianyilang",
+  "FileReferences": {
+    "Moc": "qingmujianyilang.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "qingmujianyilang.cdi3.json",
+    "Motions": {
+      "click01": [
+        {
+          "File": "motions/click01.motion3.json"
+        }
+      ],
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ],
+      "pose01": [
+        {
+          "File": "motions/pose01.motion3.json"
+        }
+      ],
+      "reset": [
+        {
+          "File": "motions/reset.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "angry",
+        "File": "expressions/angry.exp3.json"
+      },
+      {
+        "Name": "doubt",
+        "File": "expressions/doubt.exp3.json"
+      },
+      {
+        "Name": "fear",
+        "File": "expressions/fear.exp3.json"
+      },
+      {
+        "Name": "happy",
+        "File": "expressions/happy.exp3.json"
+      },
+      {
+        "Name": "normal",
+        "File": "expressions/normal.exp3.json"
+      },
+      {
+        "Name": "sadness",
+        "File": "expressions/sadness.exp3.json"
+      },
+      {
+        "Name": "shyness",
+        "File": "expressions/shyness.exp3.json"
+      },
+      {
+        "Name": "surprise",
+        "File": "expressions/surprise.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

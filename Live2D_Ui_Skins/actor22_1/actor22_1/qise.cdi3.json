@@ -1,0 +1,635 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "mouth"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "摇动　前发 2"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "摇动　侧发 2"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "l 手臂 上下"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "头饰 1"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "头饰 2"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "头饰 3"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "猫耳 1"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "猫耳 2"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "汗"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "R 手"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "l 胳膊"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "l 小臂"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "l 手"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "l 手指"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "l 手指 2"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "摇动 裙子"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "摇动 裙子 2"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "R 手 p2"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "R 手 P2 手指"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "尾巴 1"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "R 手 P2 胳膊"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "R 手 P2 小臂"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "R 手 P2 胳膊 2"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "R 手 P2 小"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "R 手 p2"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "l head p2"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "l head arm"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "l p2 Small arm"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "L-侧中发-1"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "L 大腿"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "尾巴 2"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "L 小腿"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "L 鞋"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "R 大腿"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "R 小腿"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "R  鞋"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "质心   X"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "摇动 裙子 3"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "质心 Y"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "尾巴 3"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "裙子 1"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "脸红"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "R 手臂 上下"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "质心 z"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "R 肩膀"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "R 侧后发 1"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "R 侧后发 2"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "L 侧后发 1"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "L 侧后发 2"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "尾巴 4"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "L-侧中发-2"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "R-侧发-1"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "R-侧发-1"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "尾巴 5"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "R 胳膊"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "R 小臂"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamHairBack",
+      "GroupId": "",
+      "Name": "摇动　后发"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "摇动　前发"
+    },
+    {
+      "Id": "ParamHairSide",
+      "GroupId": "",
+      "Name": "摇动　侧发"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴巴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "erduo",
+      "Name": "POSE2-youshou"
+    },
+    {
+      "Id": "houfa",
+      "Name": "houfa"
+    },
+    {
+      "Id": "liandan",
+      "Name": "liandan"
+    },
+    {
+      "Id": "mei",
+      "Name": "L-weiba"
+    },
+    {
+      "Id": "neiku",
+      "Name": "neiku"
+    },
+    {
+      "Id": "Part",
+      "Name": "POSE2-1"
+    },
+    {
+      "Id": "Part11",
+      "Name": "xiuzi-pose1"
+    },
+    {
+      "Id": "Part12",
+      "Name": "zuoshou-pose1"
+    },
+    {
+      "Id": "Part13",
+      "Name": "R-shou"
+    },
+    {
+      "Id": "Part14",
+      "Name": "youshou-pose1"
+    },
+    {
+      "Id": "Part15",
+      "Name": "L-shou"
+    },
+    {
+      "Id": "Part16",
+      "Name": "pose2-zuoshou"
+    },
+    {
+      "Id": "Part17",
+      "Name": "weiba"
+    },
+    {
+      "Id": "Part18",
+      "Name": "POSE2-youshou -"
+    },
+    {
+      "Id": "Part19",
+      "Name": "zuoshou tai"
+    },
+    {
+      "Id": "Part2",
+      "Name": "zuo-xiuzixia"
+    },
+    {
+      "Id": "Part20",
+      "Name": "U-hair"
+    },
+    {
+      "Id": "Part21",
+      "Name": "erduo"
+    },
+    {
+      "Id": "Part22",
+      "Name": "L-hair"
+    },
+    {
+      "Id": "Part23",
+      "Name": "youshou tai"
+    },
+    {
+      "Id": "Part24",
+      "Name": "mei"
+    },
+    {
+      "Id": "Part25",
+      "Name": "L-gebo"
+    },
+    {
+      "Id": "Part26",
+      "Name": "R-leg"
+    },
+    {
+      "Id": "Part27",
+      "Name": "L-leg"
+    },
+    {
+      "Id": "Part28",
+      "Name": "zhangzui"
+    },
+    {
+      "Id": "Part29",
+      "Name": "r-face"
+    },
+    {
+      "Id": "Part3",
+      "Name": "you-xiuzixia"
+    },
+    {
+      "Id": "Part30",
+      "Name": "L-eye"
+    },
+    {
+      "Id": "Part44",
+      "Name": "L-hair"
+    },
+    {
+      "Id": "Part6",
+      "Name": "lianhong-"
+    },
+    {
+      "Id": "Part7",
+      "Name": "shou wulian"
+    },
+    {
+      "Id": "Part8",
+      "Name": "ps fight r"
+    },
+    {
+      "Id": "POSE1",
+      "Name": "POSE1"
+    },
+    {
+      "Id": "POSE2",
+      "Name": "POSE2"
+    },
+    {
+      "Id": "seqi",
+      "Name": "qise"
+    },
+    {
+      "Id": "shangyi",
+      "Name": "shangyi"
+    },
+    {
+      "Id": "shipin3",
+      "Name": "shipin"
+    },
+    {
+      "Id": "tou",
+      "Name": "tou"
+    },
+    {
+      "Id": "toushi",
+      "Name": "toushi"
+    },
+    {
+      "Id": "weiba2",
+      "Name": "weiba"
+    },
+    {
+      "Id": "weiba4",
+      "Name": "R-eye"
+    },
+    {
+      "Id": "xinzengchuishou",
+      "Name": "xinzengchuishou"
+    },
+    {
+      "Id": "xiongqiang",
+      "Name": "xiongqiang"
+    },
+    {
+      "Id": "xiongyi",
+      "Name": "xiongyi"
+    },
+    {
+      "Id": "xiuzifangxia",
+      "Name": "xiuzifangxia"
+    },
+    {
+      "Id": "yan",
+      "Name": "yan"
+    },
+    {
+      "Id": "youdiaodai",
+      "Name": "youdiaodai"
+    },
+    {
+      "Id": "youxie",
+      "Name": "youxie"
+    },
+    {
+      "Id": "zhangzui",
+      "Name": "R-gebo"
+    },
+    {
+      "Id": "zuiba2",
+      "Name": "zuiba"
+    },
+    {
+      "Id": "zuiba3",
+      "Name": "zuiba"
+    },
+    {
+      "Id": "zuodiaodai",
+      "Name": "zuodiaodai"
+    },
+    {
+      "Id": "zuoxie",
+      "Name": "zuoxie"
+    }
+  ]
+}

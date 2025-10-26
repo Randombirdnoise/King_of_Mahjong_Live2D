@@ -1,0 +1,51 @@
+{
+  "Version": 3,
+  "Name": "yinyangshi_qianjing",
+  "FileReferences": {
+    "Moc": "yinyangshi_qianjing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "yinyangshi_qianjing.cdi3.json",
+    "Motions": {
+      "idle_1_01": [
+        {
+          "File": "motions/idle_1_01.motion3.json"
+        }
+      ],
+      "idle_2_01": [
+        {
+          "File": "motions/idle_2_01.motion3.json"
+        }
+      ],
+      "idle_3_01": [
+        {
+          "File": "motions/idle_3_01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen",
+        "ParamEyeLOpen2",
+        "ParamEyeROpen2"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY",
+        "ParamMouthOpenY2"
+      ]
+    }
+  ]
+}

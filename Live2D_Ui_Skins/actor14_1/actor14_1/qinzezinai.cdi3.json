@@ -1,0 +1,483 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "XIONG_X"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "R_jiaogun2"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "L_dabi"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "L_xiaobi"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "L_shou"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "L_shouzhi"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "yanjing_X"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "yanjing_Y"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "yanjing_tm"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "yanjing_th"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "aixin1"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "XIONG_Y"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "aixin_tm"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "Y"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "R_xiuzi"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "R_xiuzi2"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "R_xiuzi3"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "L_xiuzi"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "L_xiuzi2"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "L_xiuzi3"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "R_waitao"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "R_dabi"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "R_waitao2"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "R_waitao3"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "L_waitao"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "L_waitao2"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "L_waitao3"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "bianzi1"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "bianzi2"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "bianzi3"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "bianzi4"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "bianzi5"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "R_xiaobi"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "bianzi6"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "bianzi7"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "bianzi8"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "bianzi9"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "bianzi10"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "qianfa1"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "qianfa2"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "qianfa3"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "qianfa4"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "qianfa5"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "R_shou"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "qianfa6"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "qianfa7"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "KUA"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "yjt"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "yjt_tm"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "yj_xz"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "R_shouzhi"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "R_jiaogun"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "R_shou_th"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "R_shou_tm"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "D_body",
+      "Name": "D_body"
+    },
+    {
+      "Id": "D_waitao",
+      "Name": "D_waitao"
+    },
+    {
+      "Id": "face",
+      "Name": "face"
+    },
+    {
+      "Id": "hiar",
+      "Name": "hiar"
+    },
+    {
+      "Id": "L_arm",
+      "Name": "L_arm"
+    },
+    {
+      "Id": "L_eye",
+      "Name": "L_eye"
+    },
+    {
+      "Id": "L_LEG",
+      "Name": "L_LEG"
+    },
+    {
+      "Id": "L_shou",
+      "Name": "L_shou"
+    },
+    {
+      "Id": "mawei",
+      "Name": "mawei"
+    },
+    {
+      "Id": "mouth",
+      "Name": "mouth"
+    },
+    {
+      "Id": "Part",
+      "Name": "拆分"
+    },
+    {
+      "Id": "Part2",
+      "Name": "pose2右手"
+    },
+    {
+      "Id": "R_arm",
+      "Name": "R_arm"
+    },
+    {
+      "Id": "R_eye",
+      "Name": "R_eye"
+    },
+    {
+      "Id": "R_LEG",
+      "Name": "R_LEG"
+    },
+    {
+      "Id": "R_shou",
+      "Name": "R_shou"
+    },
+    {
+      "Id": "U_body",
+      "Name": "U_body"
+    },
+    {
+      "Id": "U_hair",
+      "Name": "U_hair"
+    },
+    {
+      "Id": "U_yifu",
+      "Name": "U_yifu"
+    },
+    {
+      "Id": "wuguan",
+      "Name": "wuguan"
+    }
+  ]
+}

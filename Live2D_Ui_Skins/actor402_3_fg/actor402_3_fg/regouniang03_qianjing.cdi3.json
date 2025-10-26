@@ -1,0 +1,682 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "ZHENG"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "窗帘01.1"
+    },
+    {
+      "Id": "Param100",
+      "GroupId": "",
+      "Name": "马尾柔软02"
+    },
+    {
+      "Id": "Param101",
+      "GroupId": "",
+      "Name": "L_待机阴影变化"
+    },
+    {
+      "Id": "Param102",
+      "GroupId": "",
+      "Name": "纸张01.1"
+    },
+    {
+      "Id": "Param103",
+      "GroupId": "",
+      "Name": "纸张01.2"
+    },
+    {
+      "Id": "Param104",
+      "GroupId": "",
+      "Name": "纸张01.3"
+    },
+    {
+      "Id": "Param105",
+      "GroupId": "",
+      "Name": "R_臀部01"
+    },
+    {
+      "Id": "Param106",
+      "GroupId": "",
+      "Name": "R_臀部02"
+    },
+    {
+      "Id": "Param107",
+      "GroupId": "",
+      "Name": "L_臀部01"
+    },
+    {
+      "Id": "Param108",
+      "GroupId": "",
+      "Name": "L_臀部02"
+    },
+    {
+      "Id": "Param109",
+      "GroupId": "",
+      "Name": "R_臀部补偿01"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "窗帘01.2"
+    },
+    {
+      "Id": "Param110",
+      "GroupId": "",
+      "Name": "臀部提前消失"
+    },
+    {
+      "Id": "Param111",
+      "GroupId": "",
+      "Name": "R_臀部补偿02"
+    },
+    {
+      "Id": "Param112",
+      "GroupId": "",
+      "Name": "L_臀部补偿01"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "窗帘01.3"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "窗帘01.4"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "窗帘02.1"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "窗帘02.3"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "窗帘02.2"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "窗帘02.4"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "耳朵"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "头"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "R_SHOU_01"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "爪子01"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "爪子02"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "鼻子01"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "鼻子02"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "鼻子03"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "掀起裙子"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "R_裙子01"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "R_裙子02"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "M_裙子01"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "R_刘海01"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "R_SHOU_02"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "R_刘海02"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "R_刘海03"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "R_刘海04"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "M_刘海01"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "M_刘海04"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "M_刘海03"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "M_刘海02"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "L_刘海01"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "L_刘海03"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "L_刘海04"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "R_SHOU_03"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "L_刘海02"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "马尾01"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "马尾04"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "马尾02"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "马尾05"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "马尾03"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "马尾06"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "R_SHOU_04"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "R_TUI_01"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "R_TUI_02"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "R_SHOU_S"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "R_刘海001"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "L_TUI_01"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "L_TUI_02"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "L_TUI_03"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "R_TUI_QH"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "光"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "芝士挤出03"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "R_TUI_03"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "L_TUI_S01"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "L_TUI_S02"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "芝士挤出01"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "R_刘海002"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "R_刘海003"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "L_刘海05"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "直"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "马尾00"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "马尾07"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "马尾08"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "M_裙子02"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "L_裙子01"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "L_裙子02"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "肩章上移"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "窗帘001.1"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "窗帘001.2"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "窗帘001.3"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "窗帘001.4"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "窗帘002.1"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "窗帘002.2"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "窗帘002.3"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "窗帘002.4"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "L_TUI_00"
+    },
+    {
+      "Id": "Param79",
+      "GroupId": "",
+      "Name": "丝袜01"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "芝士挤出02"
+    },
+    {
+      "Id": "Param82",
+      "GroupId": "",
+      "Name": "丝袜02"
+    },
+    {
+      "Id": "Param86",
+      "GroupId": "",
+      "Name": "芝士挤出_X"
+    },
+    {
+      "Id": "Param87",
+      "GroupId": "",
+      "Name": "R_JIAO_01"
+    },
+    {
+      "Id": "Param88",
+      "GroupId": "",
+      "Name": "R_JIAO_02"
+    },
+    {
+      "Id": "Param89",
+      "GroupId": "",
+      "Name": "R_JIAO_S"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "天空"
+    },
+    {
+      "Id": "Param90",
+      "GroupId": "",
+      "Name": "R_不透明度"
+    },
+    {
+      "Id": "Param91",
+      "GroupId": "",
+      "Name": "掀起裙子"
+    },
+    {
+      "Id": "Param92",
+      "GroupId": "",
+      "Name": "L_SHOU_S"
+    },
+    {
+      "Id": "Param93",
+      "GroupId": "",
+      "Name": "衣服01"
+    },
+    {
+      "Id": "Param94",
+      "GroupId": "",
+      "Name": "衣服02"
+    },
+    {
+      "Id": "Param95",
+      "GroupId": "",
+      "Name": "衣服03"
+    },
+    {
+      "Id": "Param96",
+      "GroupId": "",
+      "Name": "R_TUI_X"
+    },
+    {
+      "Id": "Param97",
+      "GroupId": "",
+      "Name": "R_TUI_Y"
+    },
+    {
+      "Id": "Param98",
+      "GroupId": "",
+      "Name": "R_TUI_Z"
+    },
+    {
+      "Id": "Param99",
+      "GroupId": "",
+      "Name": "马尾柔软01"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleX2",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉　上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼　开闭"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    },
+    {
+      "Id": "shetou",
+      "GroupId": "",
+      "Name": "吐舌头"
+    },
+    {
+      "Id": "shetou2",
+      "GroupId": "",
+      "Name": "吐舌头_DH"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part",
+      "Name": "QIANJING"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 3,
+  "Name": "fengchenxiufei05_2",
+  "FileReferences": {
+    "Moc": "fengchenxiufei05_2.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "fengchenxiufei05_2.cdi3.json",
+    "Motions": {
+      "click01": [
+        {
+          "File": "motions/click01.motion3.json"
+        }
+      ],
+      "click02": [
+        {
+          "File": "motions/click02.motion3.json"
+        }
+      ],
+      "click04": [
+        {
+          "File": "motions/click04.motion3.json"
+        }
+      ],
+      "click05": [
+        {
+          "File": "motions/click05.motion3.json"
+        }
+      ],
+      "click06": [
+        {
+          "File": "motions/click06.motion3.json"
+        }
+      ],
+      "click07": [
+        {
+          "File": "motions/click07.motion3.json"
+        }
+      ],
+      "click08": [
+        {
+          "File": "motions/click08.motion3.json"
+        }
+      ],
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ],
+      "pose01": [
+        {
+          "File": "motions/pose01.motion3.json"
+        }
+      ],
+      "reset": [
+        {
+          "File": "motions/reset.motion3.json"
+        }
+      ],
+      "zhuanchang": [
+        {
+          "File": "motions/zhuanchang.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "angry",
+        "File": "expressions/angry.exp3.json"
+      },
+      {
+        "Name": "doubt",
+        "File": "expressions/doubt.exp3.json"
+      },
+      {
+        "Name": "happy",
+        "File": "expressions/happy.exp3.json"
+      },
+      {
+        "Name": "normal",
+        "File": "expressions/normal.exp3.json"
+      },
+      {
+        "Name": "sadness",
+        "File": "expressions/sadness.exp3.json"
+      },
+      {
+        "Name": "shyness",
+        "File": "expressions/shyness.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "Version": 3,
+  "Name": "banbumeixiao03",
+  "FileReferences": {
+    "Moc": "banbumeixiao03.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "banbumeixiao03.cdi3.json",
+    "Motions": {
+      "click01": [
+        {
+          "File": "motions/click01.motion3.json"
+        }
+      ],
+      "idle01": [
+        {
+          "File": "motions/idle01.motion3.json"
+        }
+      ],
+      "pose01": [
+        {
+          "File": "motions/pose01.motion3.json"
+        }
+      ],
+      "reset": [
+        {
+          "File": "motions/reset.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "angry",
+        "File": "expressions/angry.exp3.json"
+      },
+      {
+        "Name": "cool",
+        "File": "expressions/cool.exp3.json"
+      },
+      {
+        "Name": "doubt",
+        "File": "expressions/doubt.exp3.json"
+      },
+      {
+        "Name": "happy",
+        "File": "expressions/happy.exp3.json"
+      },
+      {
+        "Name": "normal",
+        "File": "expressions/normal.exp3.json"
+      },
+      {
+        "Name": "sadness",
+        "File": "expressions/sadness.exp3.json"
+      },
+      {
+        "Name": "shyness",
+        "File": "expressions/shyness.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamBrowRX",
+        "ParamBrowRAngle",
+        "ParamBrowLY",
+        "ParamEyeROpen",
+        "ParamBrowLForm",
+        "ParamEyeLSmile",
+        "ParamEyeRSmile",
+        "ParamEyeBallX",
+        "ParamEyeLOpen",
+        "ParamBrowRForm",
+        "ParamBrowLX",
+        "ParamEyeBallY",
+        "ParamBrowLAngle",
+        "ParamBrowRY"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY",
+        "ParamMouthForm"
+      ]
+    }
+  ]
+}

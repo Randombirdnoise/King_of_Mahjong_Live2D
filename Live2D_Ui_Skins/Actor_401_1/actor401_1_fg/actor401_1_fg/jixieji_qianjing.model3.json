@@ -1,0 +1,48 @@
+{
+  "Version": 3,
+  "Name": "jixieji_qianjing",
+  "FileReferences": {
+    "Moc": "jixieji_qianjing.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": "jixieji_qianjing.cdi3.json",
+    "Motions": {
+      "click_2_04": [
+        {
+          "File": "motions/click_2_04.motion3.json"
+        }
+      ],
+      "click_3_04": [
+        {
+          "File": "motions/click_3_04.motion3.json"
+        }
+      ],
+      "idle_1_01": [
+        {
+          "File": "motions/idle_1_01.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

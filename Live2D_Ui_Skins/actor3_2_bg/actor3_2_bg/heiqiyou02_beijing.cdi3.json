@@ -1,0 +1,974 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "xiong_x"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "zsz"
+    },
+    {
+      "Id": "Param100",
+      "GroupId": "",
+      "Name": "houfa28"
+    },
+    {
+      "Id": "Param101",
+      "GroupId": "",
+      "Name": "houfa29"
+    },
+    {
+      "Id": "Param102",
+      "GroupId": "",
+      "Name": "houfa30"
+    },
+    {
+      "Id": "Param103",
+      "GroupId": "",
+      "Name": "houfa31"
+    },
+    {
+      "Id": "Param104",
+      "GroupId": "",
+      "Name": "houfa32"
+    },
+    {
+      "Id": "Param105",
+      "GroupId": "",
+      "Name": "houfa33"
+    },
+    {
+      "Id": "Param106",
+      "GroupId": "",
+      "Name": "houfa34"
+    },
+    {
+      "Id": "Param107",
+      "GroupId": "",
+      "Name": "houfa35"
+    },
+    {
+      "Id": "Param108",
+      "GroupId": "",
+      "Name": "houfa36"
+    },
+    {
+      "Id": "Param109",
+      "GroupId": "",
+      "Name": "houfa37"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "zdt"
+    },
+    {
+      "Id": "Param110",
+      "GroupId": "",
+      "Name": "Z"
+    },
+    {
+      "Id": "Param111",
+      "GroupId": "",
+      "Name": "toufa_cb"
+    },
+    {
+      "Id": "Param112",
+      "GroupId": "",
+      "Name": "toufa_cb2"
+    },
+    {
+      "Id": "Param113",
+      "GroupId": "",
+      "Name": "shuibo2_4"
+    },
+    {
+      "Id": "Param114",
+      "GroupId": "",
+      "Name": "shuibo2_5"
+    },
+    {
+      "Id": "Param115",
+      "GroupId": "",
+      "Name": "shuibo_xh2"
+    },
+    {
+      "Id": "Param116",
+      "GroupId": "",
+      "Name": "R_leg_shuibo"
+    },
+    {
+      "Id": "Param117",
+      "GroupId": "",
+      "Name": "shuibo5"
+    },
+    {
+      "Id": "Param118",
+      "GroupId": "",
+      "Name": "shuibo6"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "zxt"
+    },
+    {
+      "Id": "Param124",
+      "GroupId": "",
+      "Name": "shuibo2_15"
+    },
+    {
+      "Id": "Param125",
+      "GroupId": "",
+      "Name": "shuibo2_16"
+    },
+    {
+      "Id": "Param126",
+      "GroupId": "",
+      "Name": "shuibo_xh"
+    },
+    {
+      "Id": "Param127",
+      "GroupId": "",
+      "Name": "liuhai1"
+    },
+    {
+      "Id": "Param128",
+      "GroupId": "",
+      "Name": "liuhai2"
+    },
+    {
+      "Id": "Param129",
+      "GroupId": "",
+      "Name": "liuhai3"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "zj"
+    },
+    {
+      "Id": "Param130",
+      "GroupId": "",
+      "Name": "liuhai4"
+    },
+    {
+      "Id": "Param131",
+      "GroupId": "",
+      "Name": "liuhai5"
+    },
+    {
+      "Id": "Param132",
+      "GroupId": "",
+      "Name": "liuhai6"
+    },
+    {
+      "Id": "Param133",
+      "GroupId": "",
+      "Name": "liuhai7"
+    },
+    {
+      "Id": "Param134",
+      "GroupId": "",
+      "Name": "liuhai8"
+    },
+    {
+      "Id": "Param135",
+      "GroupId": "",
+      "Name": "liuhai9"
+    },
+    {
+      "Id": "Param136",
+      "GroupId": "",
+      "Name": "liuhai10"
+    },
+    {
+      "Id": "Param137",
+      "GroupId": "",
+      "Name": "liuhai11"
+    },
+    {
+      "Id": "Param138",
+      "GroupId": "",
+      "Name": "liuhai12"
+    },
+    {
+      "Id": "Param139",
+      "GroupId": "",
+      "Name": "liuhai13"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "ydt"
+    },
+    {
+      "Id": "Param140",
+      "GroupId": "",
+      "Name": "liuhai14"
+    },
+    {
+      "Id": "Param141",
+      "GroupId": "",
+      "Name": "R_cefa"
+    },
+    {
+      "Id": "Param142",
+      "GroupId": "",
+      "Name": "R_cefa2"
+    },
+    {
+      "Id": "Param143",
+      "GroupId": "",
+      "Name": "R_cefa3"
+    },
+    {
+      "Id": "Param144",
+      "GroupId": "",
+      "Name": "R_cefa4"
+    },
+    {
+      "Id": "Param145",
+      "GroupId": "",
+      "Name": "R_cefa5"
+    },
+    {
+      "Id": "Param146",
+      "GroupId": "",
+      "Name": "R_cefa6"
+    },
+    {
+      "Id": "Param147",
+      "GroupId": "",
+      "Name": "R_cefa7"
+    },
+    {
+      "Id": "Param148",
+      "GroupId": "",
+      "Name": "R_cefa8"
+    },
+    {
+      "Id": "Param149",
+      "GroupId": "",
+      "Name": "R_cefa9"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "yxt"
+    },
+    {
+      "Id": "Param150",
+      "GroupId": "",
+      "Name": "R_cefa10"
+    },
+    {
+      "Id": "Param151",
+      "GroupId": "",
+      "Name": "R_cefa11"
+    },
+    {
+      "Id": "Param152",
+      "GroupId": "",
+      "Name": "R_cefa12"
+    },
+    {
+      "Id": "Param153",
+      "GroupId": "",
+      "Name": "fashi"
+    },
+    {
+      "Id": "Param154",
+      "GroupId": "",
+      "Name": "fashi2"
+    },
+    {
+      "Id": "Param155",
+      "GroupId": "",
+      "Name": "fashi3"
+    },
+    {
+      "Id": "Param156",
+      "GroupId": "",
+      "Name": "fashi4"
+    },
+    {
+      "Id": "Param157",
+      "GroupId": "",
+      "Name": "fashi5"
+    },
+    {
+      "Id": "Param158",
+      "GroupId": "",
+      "Name": "L_cefa"
+    },
+    {
+      "Id": "Param159",
+      "GroupId": "",
+      "Name": "L_cefa1"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "yj"
+    },
+    {
+      "Id": "Param160",
+      "GroupId": "",
+      "Name": "L_cefa2"
+    },
+    {
+      "Id": "Param161",
+      "GroupId": "",
+      "Name": "L_cefa3"
+    },
+    {
+      "Id": "Param162",
+      "GroupId": "",
+      "Name": "L_cefa4"
+    },
+    {
+      "Id": "Param163",
+      "GroupId": "",
+      "Name": "L_cefa5"
+    },
+    {
+      "Id": "Param164",
+      "GroupId": "",
+      "Name": "L_cefa6"
+    },
+    {
+      "Id": "Param165",
+      "GroupId": "",
+      "Name": "L_cefa7"
+    },
+    {
+      "Id": "Param166",
+      "GroupId": "",
+      "Name": "L_cefa8"
+    },
+    {
+      "Id": "Param167",
+      "GroupId": "",
+      "Name": "L_cefa9"
+    },
+    {
+      "Id": "Param168",
+      "GroupId": "",
+      "Name": "sanguang1"
+    },
+    {
+      "Id": "Param169",
+      "GroupId": "",
+      "Name": "sanguang2"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "L_shuibo_jiao"
+    },
+    {
+      "Id": "Param170",
+      "GroupId": "",
+      "Name": "sanguang3"
+    },
+    {
+      "Id": "Param171",
+      "GroupId": "",
+      "Name": "sanguang4"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "L_shuibo_jiao2"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "L_shuibo_jiao3"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "xiong_y"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "L_leg_ts"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "L_leg_ts2"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "yj2"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "shuibo"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "shuibo2"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "shuibo3"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "shuibo4"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "R_shuibo_pd1"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "R_shuibo_pd2"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "mao1"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "ydb"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "mao2"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "mao3"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "mao4"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "mao5"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "mao6"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "mao7"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "mao8"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "mao9"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "mao10"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "mao11"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "yxb"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "mao12"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "mao13"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "R_chi1"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "R_chi2"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "R_chi3"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "R_chi4"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "R_chi5"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "R_chi6"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "R_chi7"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "R_chi8"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "ys"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "R_chi9"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "R_chi10"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "R_chi11"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "R_chi12"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "R_chi13"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "R_chi14"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "R_shuibo_body1"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "R_shuibo_body2"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "R_chi15"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "R_chi16"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "ysz"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "R_chi17"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "L_chi1"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "L_chi2"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "L_chi3"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "L_chi4"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "L_chi5"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "L_chi6"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "L_chi7"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "L_chi8"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "L_chi9"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "zdb"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "L_chi10"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "L_chi11"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "L_chi12"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "houfa1"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "houfa2"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "houfa3"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "houfa4"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "houfa5"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "houfa6"
+    },
+    {
+      "Id": "Param79",
+      "GroupId": "",
+      "Name": "houfa7"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "zxb"
+    },
+    {
+      "Id": "Param80",
+      "GroupId": "",
+      "Name": "houfa8"
+    },
+    {
+      "Id": "Param81",
+      "GroupId": "",
+      "Name": "houfa9"
+    },
+    {
+      "Id": "Param82",
+      "GroupId": "",
+      "Name": "houfa10"
+    },
+    {
+      "Id": "Param83",
+      "GroupId": "",
+      "Name": "houfa11"
+    },
+    {
+      "Id": "Param84",
+      "GroupId": "",
+      "Name": "houfa12"
+    },
+    {
+      "Id": "Param85",
+      "GroupId": "",
+      "Name": "houfa13"
+    },
+    {
+      "Id": "Param86",
+      "GroupId": "",
+      "Name": "houfa14"
+    },
+    {
+      "Id": "Param87",
+      "GroupId": "",
+      "Name": "houfa15"
+    },
+    {
+      "Id": "Param88",
+      "GroupId": "",
+      "Name": "houfa16"
+    },
+    {
+      "Id": "Param89",
+      "GroupId": "",
+      "Name": "houfa17"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "zs"
+    },
+    {
+      "Id": "Param90",
+      "GroupId": "",
+      "Name": "houfa18"
+    },
+    {
+      "Id": "Param91",
+      "GroupId": "",
+      "Name": "houfa19"
+    },
+    {
+      "Id": "Param92",
+      "GroupId": "",
+      "Name": "houfa20"
+    },
+    {
+      "Id": "Param93",
+      "GroupId": "",
+      "Name": "houfa21"
+    },
+    {
+      "Id": "Param94",
+      "GroupId": "",
+      "Name": "houfa22"
+    },
+    {
+      "Id": "Param95",
+      "GroupId": "",
+      "Name": "houfa23"
+    },
+    {
+      "Id": "Param96",
+      "GroupId": "",
+      "Name": "houfa24"
+    },
+    {
+      "Id": "Param97",
+      "GroupId": "",
+      "Name": "houfa25"
+    },
+    {
+      "Id": "Param98",
+      "GroupId": "",
+      "Name": "houfa26"
+    },
+    {
+      "Id": "Param99",
+      "GroupId": "",
+      "Name": "houfa27"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "houjing",
+      "Name": "houjing"
+    },
+    {
+      "Id": "Part",
+      "Name": "黑崎优"
+    },
+    {
+      "Id": "shui",
+      "Name": "shui"
+    },
+    {
+      "Id": "shui2",
+      "Name": "shui"
+    }
+  ]
+}

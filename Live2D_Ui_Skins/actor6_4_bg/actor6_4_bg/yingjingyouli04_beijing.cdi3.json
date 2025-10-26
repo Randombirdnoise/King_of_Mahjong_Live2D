@@ -1,0 +1,485 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamArmL",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "ParamArmL1",
+      "GroupId": "",
+      "Name": "左前臂"
+    },
+    {
+      "Id": "ParamArmL1Y",
+      "GroupId": "",
+      "Name": "左前臂Y"
+    },
+    {
+      "Id": "ParamArmLY",
+      "GroupId": "",
+      "Name": "左上臂Y"
+    },
+    {
+      "Id": "ParamArmR",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "ParamArmR1",
+      "GroupId": "",
+      "Name": "右前臂"
+    },
+    {
+      "Id": "ParamArmR1Y",
+      "GroupId": "",
+      "Name": "右前臂Y"
+    },
+    {
+      "Id": "ParamArmRY",
+      "GroupId": "",
+      "Name": "右上臂Y"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "害羞"
+    },
+    {
+      "Id": "ParamClothes2",
+      "GroupId": "",
+      "Name": "服摇2"
+    },
+    {
+      "Id": "ParamClothes2Y",
+      "GroupId": "",
+      "Name": "服摇2Y"
+    },
+    {
+      "Id": "ParamEyeAngry",
+      "GroupId": "",
+      "Name": "眼　生气"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeSmile",
+      "GroupId": "",
+      "Name": "眼　微笑"
+    },
+    {
+      "Id": "Paramf",
+      "GroupId": "",
+      "Name": "风"
+    },
+    {
+      "Id": "ParamFingerL",
+      "GroupId": "",
+      "Name": "左手指"
+    },
+    {
+      "Id": "ParamFingerL2",
+      "GroupId": "",
+      "Name": "左手指y"
+    },
+    {
+      "Id": "ParamFingerR",
+      "GroupId": "",
+      "Name": "右手指"
+    },
+    {
+      "Id": "ParamFingerR2",
+      "GroupId": "",
+      "Name": "右手指y"
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "GroupId": "",
+      "Name": "前发Y"
+    },
+    {
+      "Id": "ParamHaiFrontY2",
+      "GroupId": "",
+      "Name": "前发Yy"
+    },
+    {
+      "Id": "ParamHaiFrontY3",
+      "GroupId": "",
+      "Name": "前发Y3"
+    },
+    {
+      "Id": "ParamHaiFrontY4",
+      "GroupId": "",
+      "Name": "前发Yy3"
+    },
+    {
+      "Id": "Paramhailang1",
+      "GroupId": "",
+      "Name": "海浪1"
+    },
+    {
+      "Id": "Paramhailang2",
+      "GroupId": "",
+      "Name": "鸭子"
+    },
+    {
+      "Id": "Paramhailang3",
+      "GroupId": "",
+      "Name": "海浪2"
+    },
+    {
+      "Id": "Paramhailang4",
+      "GroupId": "",
+      "Name": "水滴"
+    },
+    {
+      "Id": "Paramhailang5",
+      "GroupId": "",
+      "Name": "水滴2"
+    },
+    {
+      "Id": "Paramhailang6",
+      "GroupId": "",
+      "Name": "海浪3"
+    },
+    {
+      "Id": "Paramhailang7",
+      "GroupId": "",
+      "Name": "海星"
+    },
+    {
+      "Id": "Paramhailang8",
+      "GroupId": "",
+      "Name": "海星2"
+    },
+    {
+      "Id": "Paramhaiou",
+      "GroupId": "",
+      "Name": "海鸥"
+    },
+    {
+      "Id": "Paramhaiou2",
+      "GroupId": "",
+      "Name": "海鸥y"
+    },
+    {
+      "Id": "Paramhaiou3",
+      "GroupId": "",
+      "Name": "海鸥2"
+    },
+    {
+      "Id": "Paramhaiou4",
+      "GroupId": "",
+      "Name": "海鸥2y"
+    },
+    {
+      "Id": "Paramhaiou5",
+      "GroupId": "",
+      "Name": "海鸥2x"
+    },
+    {
+      "Id": "Paramhaiou6",
+      "GroupId": "",
+      "Name": "海鸥x"
+    },
+    {
+      "Id": "ParamHairFront",
+      "GroupId": "",
+      "Name": "前发摇"
+    },
+    {
+      "Id": "ParamHairFront2",
+      "GroupId": "",
+      "Name": "前发2"
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "GroupId": "",
+      "Name": "前发2Y"
+    },
+    {
+      "Id": "ParamHairFront2Y2",
+      "GroupId": "",
+      "Name": "前发2Yy"
+    },
+    {
+      "Id": "ParamHairFront3",
+      "GroupId": "",
+      "Name": "前发摇3"
+    },
+    {
+      "Id": "ParamHairFront4",
+      "GroupId": "",
+      "Name": "耳朵"
+    },
+    {
+      "Id": "ParamHairFront5",
+      "GroupId": "",
+      "Name": "耳朵y"
+    },
+    {
+      "Id": "ParamHairFront6",
+      "GroupId": "",
+      "Name": "耳朵L"
+    },
+    {
+      "Id": "ParamHairFront7",
+      "GroupId": "",
+      "Name": "耳朵Ly"
+    },
+    {
+      "Id": "ParamHandL",
+      "GroupId": "",
+      "Name": "左手腕"
+    },
+    {
+      "Id": "ParamHandR",
+      "GroupId": "",
+      "Name": "右手腕"
+    },
+    {
+      "Id": "ParamHipX",
+      "GroupId": "",
+      "Name": "HIP_X"
+    },
+    {
+      "Id": "ParamHipY",
+      "GroupId": "",
+      "Name": "HIP_Y"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴 开闭"
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "GroupId": "",
+      "Name": "乳摇X"
+    },
+    {
+      "Id": "ParamOpaishakeX2",
+      "GroupId": "",
+      "Name": "乳摇X2"
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "GroupId": "",
+      "Name": "乳摇Y"
+    },
+    {
+      "Id": "ParamOpaishakeY2",
+      "GroupId": "",
+      "Name": "乳摇Y2"
+    },
+    {
+      "Id": "Paramstar",
+      "GroupId": "",
+      "Name": "星星"
+    },
+    {
+      "Id": "Paramstar2",
+      "GroupId": "",
+      "Name": "星星2"
+    },
+    {
+      "Id": "Paramstar3",
+      "GroupId": "",
+      "Name": "星星3"
+    },
+    {
+      "Id": "Paramstar4",
+      "GroupId": "",
+      "Name": "星星4"
+    },
+    {
+      "Id": "Paramtr",
+      "GroupId": "",
+      "Name": "腿肉"
+    },
+    {
+      "Id": "ParamWX2",
+      "GroupId": "",
+      "Name": "滑板Z"
+    },
+    {
+      "Id": "ParamWX3",
+      "GroupId": "",
+      "Name": "滑板X"
+    },
+    {
+      "Id": "ParamWX4",
+      "GroupId": "",
+      "Name": "滑板Y"
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "GroupId": "",
+      "Name": "[0]马尾2"
+    },
+    {
+      "Id": "Param_Angle_Rotation41",
+      "GroupId": "",
+      "Name": "[1]马尾2"
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "GroupId": "",
+      "Name": "[2]马尾2"
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "GroupId": "",
+      "Name": "[0]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation44",
+      "GroupId": "",
+      "Name": "[1]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation45",
+      "GroupId": "",
+      "Name": "[2]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation46",
+      "GroupId": "",
+      "Name": "[3]尾巴2"
+    },
+    {
+      "Id": "Param_Angle_Rotation50",
+      "GroupId": "",
+      "Name": "[3]马尾3"
+    },
+    {
+      "Id": "Param_Angle_Rotation51",
+      "GroupId": "",
+      "Name": "[4]马尾3"
+    },
+    {
+      "Id": "Param_Angle_Rotation66",
+      "GroupId": "",
+      "Name": "[0]马尾后"
+    },
+    {
+      "Id": "Param_Angle_Rotation67",
+      "GroupId": "",
+      "Name": "[1]马尾后"
+    },
+    {
+      "Id": "Param_Angle_Rotation68",
+      "GroupId": "",
+      "Name": "[2]马尾后"
+    },
+    {
+      "Id": "Param_Angle_Rotation69",
+      "GroupId": "",
+      "Name": "[3]马尾后"
+    },
+    {
+      "Id": "Param_Angle_Rotation70",
+      "GroupId": "",
+      "Name": "[4]马尾后"
+    },
+    {
+      "Id": "Param_Angle_Rotation71",
+      "GroupId": "",
+      "Name": "[5]马尾后"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part14",
+      "Name": "浪花 缩小"
+    },
+    {
+      "Id": "Part15",
+      "Name": "星星"
+    },
+    {
+      "Id": "Part30",
+      "Name": "浪花 2"
+    },
+    {
+      "Id": "Part31",
+      "Name": "浪花 3"
+    },
+    {
+      "Id": "Part32",
+      "Name": "浪花 4"
+    },
+    {
+      "Id": "Part33",
+      "Name": "浪花 5"
+    },
+    {
+      "Id": "Part34",
+      "Name": "大浪"
+    },
+    {
+      "Id": "POSE1",
+      "Name": "POSE1"
+    }
+  ]
+}

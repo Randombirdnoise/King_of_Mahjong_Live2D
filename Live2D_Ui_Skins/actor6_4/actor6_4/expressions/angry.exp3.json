@@ -1,0 +1,352 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 1.0,
+  "FadeOutTime": 1.0,
+  "Parameters": [
+    {
+      "Id": "ParamEyeSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeAngry",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Paramf",
+      "Value": -0.2,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleX",
+      "Value": -19.905,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamAngleZ",
+      "Value": -12.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "Value": -0.4,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBreath",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHipX",
+      "Value": -2.996,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamWX3",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamWX4",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamWX2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmL",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmLY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmL1",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmL1Y",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHandL",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamFingerL",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamFingerL2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmR",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmRY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmR1",
+      "Value": -12.546,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamArmR1Y",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHandR",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamFingerR",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamFingerR2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamOpaishakeX",
+      "Value": -0.019,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamOpaishakeY",
+      "Value": -0.032,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamOpaishakeX2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamOpaishakeY2",
+      "Value": -0.021,
+      "Blend": 1
+    },
+    {
+      "Id": "Paramtr",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront4",
+      "Value": 0.082,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront5",
+      "Value": -0.014,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront6",
+      "Value": -0.53,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront7",
+      "Value": -0.451,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront",
+      "Value": -0.189,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHaiFrontY",
+      "Value": -0.052,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHaiFrontY2",
+      "Value": 0.023,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront3",
+      "Value": -0.148,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHaiFrontY3",
+      "Value": 0.099,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHaiFrontY4",
+      "Value": 0.229,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront2",
+      "Value": -0.126,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront2Y",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamHairFront2Y2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamClothes2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamClothes2Y",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation44",
+      "Value": 2.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation45",
+      "Value": 4.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation46",
+      "Value": 2.0,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "Value": 8.085,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation41",
+      "Value": 1.958,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "Value": -12.716,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation50",
+      "Value": -17.895,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation51",
+      "Value": -8.585,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation66",
+      "Value": 9.462,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation67",
+      "Value": 1.116,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation68",
+      "Value": -16.028,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation69",
+      "Value": -18.141,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation70",
+      "Value": -6.85,
+      "Blend": 1
+    },
+    {
+      "Id": "Param_Angle_Rotation71",
+      "Value": 3.36,
+      "Blend": 1
+    }
+  ]
+}

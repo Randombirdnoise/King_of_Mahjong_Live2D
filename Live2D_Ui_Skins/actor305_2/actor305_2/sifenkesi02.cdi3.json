@@ -1,0 +1,638 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "L_arm_z1"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "R_arm_hand1"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "L_leg_z1"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "L_leg_z2"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "L_leg_z3"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "R_leg_z1"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "R_leg_z2"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "R_leg_z3"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "L_leg_ts1"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "cengji"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "L_leg_cengji"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "L_arm_z2"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "L_foot"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "booba_y1"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "R_hand2_tm"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "R_hand1_tm"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "booba_y2"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "F_hair1"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "F_hair2"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "R_hair1"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "R_hair2"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "L_hair1"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "L_arm_z3"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "L_hair2"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "R_hair3"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "L_hair3"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "B_hair_1"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "B_hair_2"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "FR_bu_1"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "flower_1"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "RB_bu1"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "flower_2"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "RB_bu2"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "L_arm_s1"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "R_cao1"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "L_cao2"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "L_cao1"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "R_cao2"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "B_tree1"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "B_tree2"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "yun1"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "yun2"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "water_1"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "water_2"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "L_arm_hand"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "FR_bu_2"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "FL_bu_1"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "FL_bu_2"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "FL_bu_1"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "FL_bu_2"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "F_cloth1"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "F_cloth2"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "kua_x"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "shuibo"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "shuibo"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "R_arm_s1"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "heye_1"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "heye_2"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "heye_3"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "R_cao3"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "R_cao4"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "L_bu_birang"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "L_bu_birang"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "R_arm_hand1"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "yun3"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "L_cao3"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "R_arm_z1"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "L_cao4"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "L_cao4"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "R_cao4"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "M_cloth_birang"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "M_cloth_birang"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "M_cloth_birang2"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "ya"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "L_arm_hand2"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "guang_1"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "R_arm_z2"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "R_arm_z3"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "body",
+      "Name": "F_hair"
+    },
+    {
+      "Id": "brow",
+      "Name": "people"
+    },
+    {
+      "Id": "bu_arm",
+      "Name": "flower"
+    },
+    {
+      "Id": "bu_hand",
+      "Name": "F_bu"
+    },
+    {
+      "Id": "B_bu",
+      "Name": "people"
+    },
+    {
+      "Id": "B_cloth",
+      "Name": "head"
+    },
+    {
+      "Id": "B_hair",
+      "Name": "R_hair"
+    },
+    {
+      "Id": "chair",
+      "Name": "bu_arm"
+    },
+    {
+      "Id": "chair2",
+      "Name": "hair_shadow"
+    },
+    {
+      "Id": "cloth",
+      "Name": "tree"
+    },
+    {
+      "Id": "cloth_s",
+      "Name": "L_hand"
+    },
+    {
+      "Id": "exp",
+      "Name": "L_hair"
+    },
+    {
+      "Id": "F_bu",
+      "Name": "heye"
+    },
+    {
+      "Id": "F_hair",
+      "Name": "R_arm"
+    },
+    {
+      "Id": "gusangyun",
+      "Name": "sifenkesi"
+    },
+    {
+      "Id": "hair_shadow",
+      "Name": "chair"
+    },
+    {
+      "Id": "head",
+      "Name": "BG"
+    },
+    {
+      "Id": "L_arm",
+      "Name": "brow"
+    },
+    {
+      "Id": "L_eye",
+      "Name": "L_leg"
+    },
+    {
+      "Id": "L_hair",
+      "Name": "L_cao"
+    },
+    {
+      "Id": "L_hand",
+      "Name": "R_cao"
+    },
+    {
+      "Id": "L_leg",
+      "Name": "cloud"
+    },
+    {
+      "Id": "mouth",
+      "Name": "R_leg"
+    },
+    {
+      "Id": "people",
+      "Name": "gusangyun"
+    },
+    {
+      "Id": "people2",
+      "Name": "BG"
+    },
+    {
+      "Id": "R_arm",
+      "Name": "water"
+    },
+    {
+      "Id": "R_eye",
+      "Name": "cloth"
+    },
+    {
+      "Id": "R_hair",
+      "Name": "B_bu"
+    },
+    {
+      "Id": "R_leg",
+      "Name": "bu_hand"
+    },
+    {
+      "Id": "sifenkesi",
+      "Name": "QG"
+    }
+  ]
+}

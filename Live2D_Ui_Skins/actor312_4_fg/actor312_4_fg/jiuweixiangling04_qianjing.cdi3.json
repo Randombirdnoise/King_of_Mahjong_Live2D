@@ -1,0 +1,1049 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "R_SHOU_01"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "R_FA_02"
+    },
+    {
+      "Id": "Param100",
+      "GroupId": "",
+      "Name": "内裤Y"
+    },
+    {
+      "Id": "Param101",
+      "GroupId": "",
+      "Name": "内裤X"
+    },
+    {
+      "Id": "Param102",
+      "GroupId": "",
+      "Name": "R_补偿Y"
+    },
+    {
+      "Id": "Param103",
+      "GroupId": "",
+      "Name": "L_尾巴02.1"
+    },
+    {
+      "Id": "Param104",
+      "GroupId": "",
+      "Name": "头正"
+    },
+    {
+      "Id": "Param105",
+      "GroupId": "",
+      "Name": "云01Y"
+    },
+    {
+      "Id": "Param106",
+      "GroupId": "",
+      "Name": "R_FA_04"
+    },
+    {
+      "Id": "Param107",
+      "GroupId": "",
+      "Name": "R_FA_05"
+    },
+    {
+      "Id": "Param108",
+      "GroupId": "",
+      "Name": "R_FA_005"
+    },
+    {
+      "Id": "Param109",
+      "GroupId": "",
+      "Name": "L_FA_04"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "R_FA_03"
+    },
+    {
+      "Id": "Param110",
+      "GroupId": "",
+      "Name": "L_FA_001"
+    },
+    {
+      "Id": "Param111",
+      "GroupId": "",
+      "Name": "L_FA_002"
+    },
+    {
+      "Id": "Param112",
+      "GroupId": "",
+      "Name": "L_FA_003"
+    },
+    {
+      "Id": "Param113",
+      "GroupId": "",
+      "Name": "L_FA_004"
+    },
+    {
+      "Id": "Param114",
+      "GroupId": "",
+      "Name": "体正"
+    },
+    {
+      "Id": "Param115",
+      "GroupId": "",
+      "Name": "体正"
+    },
+    {
+      "Id": "Param116",
+      "GroupId": "",
+      "Name": "L_TUI_01"
+    },
+    {
+      "Id": "Param117",
+      "GroupId": "",
+      "Name": "R_TUI_01"
+    },
+    {
+      "Id": "Param118",
+      "GroupId": "",
+      "Name": "切换"
+    },
+    {
+      "Id": "Param119",
+      "GroupId": "",
+      "Name": "头位移"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "M_FA_01"
+    },
+    {
+      "Id": "Param120",
+      "GroupId": "",
+      "Name": "勺子切换"
+    },
+    {
+      "Id": "Param121",
+      "GroupId": "",
+      "Name": "内裤S"
+    },
+    {
+      "Id": "Param122",
+      "GroupId": "",
+      "Name": "L_大腿形体变化"
+    },
+    {
+      "Id": "Param123",
+      "GroupId": "",
+      "Name": "海鸥群01Y"
+    },
+    {
+      "Id": "Param124",
+      "GroupId": "",
+      "Name": "海鸥群02Y"
+    },
+    {
+      "Id": "Param125",
+      "GroupId": "",
+      "Name": "海鸥群02X"
+    },
+    {
+      "Id": "Param126",
+      "GroupId": "",
+      "Name": "海鸥01X"
+    },
+    {
+      "Id": "Param127",
+      "GroupId": "",
+      "Name": "海鸥01Y"
+    },
+    {
+      "Id": "Param128",
+      "GroupId": "",
+      "Name": "R_脚趾"
+    },
+    {
+      "Id": "Param129",
+      "GroupId": "",
+      "Name": "L_脚趾"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "M_FA_02"
+    },
+    {
+      "Id": "Param130",
+      "GroupId": "",
+      "Name": "海鸥01Z"
+    },
+    {
+      "Id": "Param131",
+      "GroupId": "",
+      "Name": "海鸥02Z"
+    },
+    {
+      "Id": "Param132",
+      "GroupId": "",
+      "Name": "海鸥01_OFF"
+    },
+    {
+      "Id": "Param133",
+      "GroupId": "",
+      "Name": "海鸥02_OFF"
+    },
+    {
+      "Id": "Param134",
+      "GroupId": "",
+      "Name": "草莓切换"
+    },
+    {
+      "Id": "Param135",
+      "GroupId": "",
+      "Name": "巴菲切换"
+    },
+    {
+      "Id": "Param136",
+      "GroupId": "",
+      "Name": "巴菲勺子_Z"
+    },
+    {
+      "Id": "Param137",
+      "GroupId": "",
+      "Name": "巴菲勺子_Y"
+    },
+    {
+      "Id": "Param138",
+      "GroupId": "",
+      "Name": "巴菲勺子_X"
+    },
+    {
+      "Id": "Param139",
+      "GroupId": "",
+      "Name": "草莓吃掉"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "M_FA_03"
+    },
+    {
+      "Id": "Param140",
+      "GroupId": "",
+      "Name": "L_尾巴02.2"
+    },
+    {
+      "Id": "Param141",
+      "GroupId": "",
+      "Name": "L_尾巴02.3"
+    },
+    {
+      "Id": "Param142",
+      "GroupId": "",
+      "Name": "L_尾巴02.4"
+    },
+    {
+      "Id": "Param143",
+      "GroupId": "",
+      "Name": "L_尾巴02.5"
+    },
+    {
+      "Id": "Param144",
+      "GroupId": "",
+      "Name": "奶油消失"
+    },
+    {
+      "Id": "Param145",
+      "GroupId": "",
+      "Name": "巴菲掉落"
+    },
+    {
+      "Id": "Param146",
+      "GroupId": "",
+      "Name": "胸部巴菲消失"
+    },
+    {
+      "Id": "Param147",
+      "GroupId": "",
+      "Name": "光效DH"
+    },
+    {
+      "Id": "Param148",
+      "GroupId": "",
+      "Name": "云02Y"
+    },
+    {
+      "Id": "Param149",
+      "GroupId": "",
+      "Name": "云03Y"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "L_FA_01"
+    },
+    {
+      "Id": "Param150",
+      "GroupId": "",
+      "Name": "海S001"
+    },
+    {
+      "Id": "Param151",
+      "GroupId": "",
+      "Name": "海S002"
+    },
+    {
+      "Id": "Param152",
+      "GroupId": "",
+      "Name": "海S003"
+    },
+    {
+      "Id": "Param153",
+      "GroupId": "",
+      "Name": "海S003"
+    },
+    {
+      "Id": "Param154",
+      "GroupId": "",
+      "Name": "小臂遮罩"
+    },
+    {
+      "Id": "Param155",
+      "GroupId": "",
+      "Name": "R_补偿X01"
+    },
+    {
+      "Id": "Param156",
+      "GroupId": "",
+      "Name": "R_肱二头肌"
+    },
+    {
+      "Id": "Param157",
+      "GroupId": "",
+      "Name": "L_肱二头肌"
+    },
+    {
+      "Id": "Param158",
+      "GroupId": "",
+      "Name": "掉落巴菲X"
+    },
+    {
+      "Id": "Param159",
+      "GroupId": "",
+      "Name": "掉落巴菲Y"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "L_FA_02"
+    },
+    {
+      "Id": "Param160",
+      "GroupId": "",
+      "Name": "掉落巴菲Z"
+    },
+    {
+      "Id": "Param161",
+      "GroupId": "",
+      "Name": "R_补偿X02"
+    },
+    {
+      "Id": "Param162",
+      "GroupId": "",
+      "Name": "云01.5X"
+    },
+    {
+      "Id": "Param163",
+      "GroupId": "",
+      "Name": "云01X"
+    },
+    {
+      "Id": "Param164",
+      "GroupId": "",
+      "Name": "云02X"
+    },
+    {
+      "Id": "Param165",
+      "GroupId": "",
+      "Name": "云03X"
+    },
+    {
+      "Id": "Param166",
+      "GroupId": "",
+      "Name": "云01.5Y"
+    },
+    {
+      "Id": "Param167",
+      "GroupId": "",
+      "Name": "云02.5X"
+    },
+    {
+      "Id": "Param168",
+      "GroupId": "",
+      "Name": "云02.5Y"
+    },
+    {
+      "Id": "Param169",
+      "GroupId": "",
+      "Name": "云03.5X"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "L_FA_03"
+    },
+    {
+      "Id": "Param170",
+      "GroupId": "",
+      "Name": "云03.5Y"
+    },
+    {
+      "Id": "Param171",
+      "GroupId": "",
+      "Name": "巴菲勺子_上下补偿"
+    },
+    {
+      "Id": "Param172",
+      "GroupId": "",
+      "Name": "巴菲X01"
+    },
+    {
+      "Id": "Param173",
+      "GroupId": "",
+      "Name": "巴菲Y01"
+    },
+    {
+      "Id": "Param174",
+      "GroupId": "",
+      "Name": "巴菲X02"
+    },
+    {
+      "Id": "Param175",
+      "GroupId": "",
+      "Name": "形态变化"
+    },
+    {
+      "Id": "Param176",
+      "GroupId": "",
+      "Name": "切换"
+    },
+    {
+      "Id": "Param177",
+      "GroupId": "",
+      "Name": "掉落巴菲消失"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "换手"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "R_手指02"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "R_SHOU_02"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "R_大臂收缩"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "R_小臂收缩"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "花01"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "花01.5"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "花03"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "大小"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "巴菲左右"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "花02"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "花04"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "花04.5"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "R_SHOU_03"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "乳摇X01"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "乳摇X02"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "上衣X03"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "上衣X04"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "乳摇Y01"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "上衣Y04"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "乳摇Y02"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "上衣Y03"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "R_手指02.5"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "巴菲Z"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "R_手指01"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "裙摆挤压_02"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "R_腿部挤压"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "裙摆挤压_01"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "L_腿部挤压01"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "L_腿部挤压02"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "勺子手姿态切换"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "R_FA_001"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "R_FA_002"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "R_FA_003"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "R_FA_004"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "L_SHOU_01"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "马尾01"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "马尾02"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "马尾03"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "马尾04"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "马尾05"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "形态变化"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "L_TUI_02"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "L_TUI_03"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "R_内裤切换"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "R_TUI_02"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "L_SHOU_02"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "R_TUI_03"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "杯子X"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "杯子Y"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "光效"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "L_腿部阴影动态"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "云01X"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "云02X"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "云03X"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "海鸥群01X"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "海S01"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "L_SHOU_03"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "海S02"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "L_手指"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "海S03"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "光效"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "R_尾巴01.1"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "R_尾巴01.2"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "R_尾巴01.3"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "R_尾巴01.4"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "R_尾巴01.4"
+    },
+    {
+      "Id": "Param79",
+      "GroupId": "",
+      "Name": "R_尾巴02.1"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "巴菲X"
+    },
+    {
+      "Id": "Param80",
+      "GroupId": "",
+      "Name": "R_尾巴02.2"
+    },
+    {
+      "Id": "Param81",
+      "GroupId": "",
+      "Name": "R_尾巴02.3"
+    },
+    {
+      "Id": "Param82",
+      "GroupId": "",
+      "Name": "R_尾巴02.4"
+    },
+    {
+      "Id": "Param83",
+      "GroupId": "",
+      "Name": "头发层级"
+    },
+    {
+      "Id": "Param84",
+      "GroupId": "",
+      "Name": "R_尾巴03.1"
+    },
+    {
+      "Id": "Param85",
+      "GroupId": "",
+      "Name": "R_尾巴03.2"
+    },
+    {
+      "Id": "Param86",
+      "GroupId": "",
+      "Name": "R_尾巴03.3"
+    },
+    {
+      "Id": "Param87",
+      "GroupId": "",
+      "Name": "R_尾巴03.4"
+    },
+    {
+      "Id": "Param88",
+      "GroupId": "",
+      "Name": "L_腿部阴影消失"
+    },
+    {
+      "Id": "Param89",
+      "GroupId": "",
+      "Name": "L_尾巴01.1"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "R_FA_01"
+    },
+    {
+      "Id": "Param90",
+      "GroupId": "",
+      "Name": "L_尾巴01.2"
+    },
+    {
+      "Id": "Param91",
+      "GroupId": "",
+      "Name": "L_尾巴01.3"
+    },
+    {
+      "Id": "Param92",
+      "GroupId": "",
+      "Name": "L_尾巴01.4"
+    },
+    {
+      "Id": "Param93",
+      "GroupId": "",
+      "Name": "L_尾巴01.5"
+    },
+    {
+      "Id": "Param94",
+      "GroupId": "",
+      "Name": "L_尾巴03.1"
+    },
+    {
+      "Id": "Param95",
+      "GroupId": "",
+      "Name": "L_尾巴03.2"
+    },
+    {
+      "Id": "Param96",
+      "GroupId": "",
+      "Name": "L_尾巴03.3"
+    },
+    {
+      "Id": "Param97",
+      "GroupId": "",
+      "Name": "L_尾巴03.4"
+    },
+    {
+      "Id": "Param98",
+      "GroupId": "",
+      "Name": "L_尾巴03.5"
+    },
+    {
+      "Id": "Param99",
+      "GroupId": "",
+      "Name": "R_大腿形体变化"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBodyAngleZ2",
+      "GroupId": "",
+      "Name": "身体旋转　S"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉　上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamCheek2",
+      "GroupId": "",
+      "Name": "惊讶"
+    },
+    {
+      "Id": "ParamCheek3",
+      "GroupId": "",
+      "Name": "缩小"
+    },
+    {
+      "Id": "ParamCheek4",
+      "GroupId": "",
+      "Name": "牙"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼　开闭"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part",
+      "Name": "前景"
+    },
+    {
+      "Id": "Part2",
+      "Name": "杯子☀"
+    },
+    {
+      "Id": "Part3",
+      "Name": "高光"
+    },
+    {
+      "Id": "Part4",
+      "Name": "组 1"
+    }
+  ]
+}

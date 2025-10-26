@@ -1,0 +1,510 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "ys"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "ysz"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "yxb_tm"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "yxb_th"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "gong_x"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "gong_y"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "gong_xz"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "gong_sg"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "ys_tm"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "ys_th"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "xiong_X"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "gong_tm"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "gong_th"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "gong_th_x"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "gong_th_y"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "gong_th_xz"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "gong_th_sf"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "ys_th_xz"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "ysz_th"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "qunzi_bx"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "qunzi_pd1"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "xiong_Y"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "qunzi_pd2"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "qunzi_pd3"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "qunzi_pd4"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "qunzi_pd5"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "qunzi_pd6"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "qunzi_pd7"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "qunzi_pd8"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "yaoshi1"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "yaoshi2"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "piaodai"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "zdb"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "piaodai2"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "U_hair"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "U_hair2"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "U_hair3"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "cefa"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "cefa2"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "cefa3"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "cefa4"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "houfa"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "houfa2"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "zxb"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "houfa3"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "houfa4"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "fashi"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "fashi2"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "daimao"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "daimao2"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "X"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "Y"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "R_tui_Y"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "zs"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "zsz"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "ydb"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "yxb"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "",
+      "Name": "脸颊泛红"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "body",
+      "Name": "body"
+    },
+    {
+      "Id": "D_body",
+      "Name": "D_body"
+    },
+    {
+      "Id": "face",
+      "Name": "face"
+    },
+    {
+      "Id": "liuhai",
+      "Name": "liuhai"
+    },
+    {
+      "Id": "L_arm",
+      "Name": "L_arm"
+    },
+    {
+      "Id": "L_biyan",
+      "Name": "L_biyan"
+    },
+    {
+      "Id": "L_eye",
+      "Name": "L_eye"
+    },
+    {
+      "Id": "L_leg",
+      "Name": "L_leg"
+    },
+    {
+      "Id": "L_shou",
+      "Name": "L_shou"
+    },
+    {
+      "Id": "mouth",
+      "Name": "mouth"
+    },
+    {
+      "Id": "Part",
+      "Name": "拆分"
+    },
+    {
+      "Id": "Part3",
+      "Name": "部件25"
+    },
+    {
+      "Id": "R_Arm",
+      "Name": "R_Arm"
+    },
+    {
+      "Id": "R_Arm_pose2",
+      "Name": "R_Arm_pose2"
+    },
+    {
+      "Id": "R_eye",
+      "Name": "R_eye"
+    },
+    {
+      "Id": "R_leg",
+      "Name": "R_leg"
+    },
+    {
+      "Id": "R_shou",
+      "Name": "R_shou"
+    },
+    {
+      "Id": "shangyi",
+      "Name": "shangyi"
+    },
+    {
+      "Id": "tou",
+      "Name": "tou"
+    },
+    {
+      "Id": "U_body",
+      "Name": "U_body"
+    },
+    {
+      "Id": "U_qunbai",
+      "Name": "U_qunbai"
+    },
+    {
+      "Id": "xiongqiang",
+      "Name": "xiongqiang"
+    },
+    {
+      "Id": "yy",
+      "Name": "yy"
+    }
+  ]
+}

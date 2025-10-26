@@ -1,0 +1,428 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "旋转"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "4.1"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "4.2"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "5"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "6"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "6.1"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "6.2"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "7"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "大臂"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "转身x"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "胸"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "1"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "左腿"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "右腿"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "左小腿"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "右小腿"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "左脚"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "右脚"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "左脚趾"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "右脚趾"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "左大腿肉"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "右大腿肉"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "2"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "1"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "2"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "左小腿肉"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "右小腿肉"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "屁股"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "光"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "2.1"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "3"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "3.1"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "3.2"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "3.3"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "4"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼珠 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼珠 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼　开闭"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴　张开和闭合"
+    },
+    {
+      "Id": "Param_Angle_Rotation11",
+      "GroupId": "",
+      "Name": "[0]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation12",
+      "GroupId": "",
+      "Name": "[1]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation13",
+      "GroupId": "",
+      "Name": "[2]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation14",
+      "GroupId": "",
+      "Name": "[3]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation15",
+      "GroupId": "",
+      "Name": "[4]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation16",
+      "GroupId": "",
+      "Name": "[5]刘海1"
+    },
+    {
+      "Id": "Param_Angle_Rotation17",
+      "GroupId": "",
+      "Name": "[0]刘海2"
+    },
+    {
+      "Id": "Param_Angle_Rotation18",
+      "GroupId": "",
+      "Name": "[1]刘海2"
+    },
+    {
+      "Id": "Param_Angle_Rotation19",
+      "GroupId": "",
+      "Name": "[2]刘海2"
+    },
+    {
+      "Id": "Param_Angle_Rotation20",
+      "GroupId": "",
+      "Name": "[3]刘海2"
+    },
+    {
+      "Id": "Param_Angle_Rotation21",
+      "GroupId": "",
+      "Name": "[0]刘海4"
+    },
+    {
+      "Id": "Param_Angle_Rotation22",
+      "GroupId": "",
+      "Name": "[1]刘海4"
+    },
+    {
+      "Id": "Param_Angle_Rotation23",
+      "GroupId": "",
+      "Name": "[2]刘海4"
+    },
+    {
+      "Id": "Param_Angle_Rotation24",
+      "GroupId": "",
+      "Name": "[3]刘海4"
+    },
+    {
+      "Id": "Param_Angle_Rotation39",
+      "GroupId": "",
+      "Name": "[0]刘海3"
+    },
+    {
+      "Id": "Param_Angle_Rotation40",
+      "GroupId": "",
+      "Name": "[1]刘海3"
+    },
+    {
+      "Id": "Param_Angle_Rotation41",
+      "GroupId": "",
+      "Name": "[2]刘海3"
+    },
+    {
+      "Id": "Param_Angle_Rotation42",
+      "GroupId": "",
+      "Name": "[3]刘海3"
+    },
+    {
+      "Id": "Param_Angle_Rotation43",
+      "GroupId": "",
+      "Name": "[4]刘海3"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "ArtMesh44_Skinning",
+      "Name": "图层 4(蒙皮)"
+    },
+    {
+      "Id": "ArtMesh44_Skinning2",
+      "Name": "图层 4(蒙皮)"
+    },
+    {
+      "Id": "fa1_Skinning",
+      "Name": "fa1(蒙皮)"
+    },
+    {
+      "Id": "fa1_Skinning2",
+      "Name": "fa1(蒙皮)"
+    },
+    {
+      "Id": "fa5_Skinning",
+      "Name": "fa5(蒙皮)"
+    },
+    {
+      "Id": "fa5_Skinning2",
+      "Name": "fa5(蒙皮)"
+    },
+    {
+      "Id": "fa6_Skinning",
+      "Name": "fa6(蒙皮)"
+    },
+    {
+      "Id": "fa6_Skinning2",
+      "Name": "fa6(蒙皮)"
+    },
+    {
+      "Id": "fa7_Skinning",
+      "Name": "fa7(蒙皮)"
+    },
+    {
+      "Id": "fa7_Skinning2",
+      "Name": "fa7(蒙皮)"
+    },
+    {
+      "Id": "liuhai",
+      "Name": "liuhai"
+    },
+    {
+      "Id": "L_eye",
+      "Name": "L_eye"
+    },
+    {
+      "Id": "L_eye13",
+      "Name": "L_eye"
+    },
+    {
+      "Id": "Part",
+      "Name": "拆分"
+    },
+    {
+      "Id": "Part15",
+      "Name": "丰臣秀妃5.0桌布拆分完成(2).psd(未找到对应图层)"
+    },
+    {
+      "Id": "Part2",
+      "Name": "角色"
+    },
+    {
+      "Id": "Part3",
+      "Name": "左脚"
+    },
+    {
+      "Id": "Part4",
+      "Name": "右脚"
+    },
+    {
+      "Id": "Part5",
+      "Name": "头发"
+    },
+    {
+      "Id": "Part6",
+      "Name": "上衣"
+    },
+    {
+      "Id": "Part7",
+      "Name": "床"
+    },
+    {
+      "Id": "Part8",
+      "Name": "拆分"
+    },
+    {
+      "Id": "Part9",
+      "Name": "角色"
+    },
+    {
+      "Id": "R_eye",
+      "Name": "R_eye"
+    },
+    {
+      "Id": "R_eye14",
+      "Name": "R_eye"
+    }
+  ]
+}
